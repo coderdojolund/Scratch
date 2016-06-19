@@ -1,4 +1,4 @@
-*Detta är en utskriftsvänlig version av [Malin Christerssons Scratch-utmaningar](http://www.malinc.se/programming/scratch/sv/)*
+*Detta är en [utskriftsvänlig](https://gitprint.com/coderdojolund/Scratch/edit/master/Scratch-utmaningar.md) version av [Malin Christerssons Scratch-utmaningar](http://www.malinc.se/programming/scratch/sv/)*
 
 # Scratch-utmaningar
 
