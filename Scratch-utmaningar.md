@@ -8,7 +8,7 @@ Lär dig grunderna genom att följa "Kom igång med Scratch", vilket visas till 
 
 ## Labyrint
 
-Rita en labyrint som bakgrund eller remixa [Labyrint utan kod](https://scratch.mit.edu/projects/25805116/).
+Rita en labyrint som bakgrund eller remixa [Labyrint utan kod](https://scratch.mit.edu/projects/25805116/), scratch.mit.edu/projects/25805116/.
 
 Gör ett labyrintspel. Se till att det händer något om man går in i väggen eller når målet. Lägg in de funktioner du vill ha med, exempelvis plocka ballongerna men undvik spöket.
 
